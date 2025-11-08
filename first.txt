@@ -3,3 +3,4 @@ This is my first git test file
 to practice git using cli
 
 full cli changes
+change3
